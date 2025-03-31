@@ -39,6 +39,7 @@ securities (RMBS). The system processes mortgage data from a JSON file, calculat
 ├── models.py             # Defines Mortgage and MortgageInput models
 ├── utils.py              # Utility functions for risk calculations
 ├── test_credit_rating.py # Unit tests for validation and credit rating
+├── test_data.py          # Create sample test data to run the test cases
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 ```
